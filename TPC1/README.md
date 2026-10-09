@@ -17,9 +17,9 @@ Nesta atividade foram realizados dois desafios no Blockly Games: a resolução d
 
 ### Maze
 
-[O link para a resolução do nível 10 do Maze](https://blockly.games/maze?lang=en&level=10&&skin=0#4j9ms9)
+[O link para a resolução do nível 10 do Maze](https://blockly.games/maze?lang=en&level=10&skin=0)
 
-<img width="241" height="289" alt="Captura de ecrã 2026-09-24 134840" src="https://github.com/user-attachments/assets/cb9c21dd-9a9e-453d-a1cc-b459f1481e7d" />
+<img width="257" height="317" alt="Captura de ecrã 2026-10-09 122439" src="https://github.com/user-attachments/assets/3544153c-ee25-4bf9-947e-17f57ed82628" />
 
 ###   Barco
 
